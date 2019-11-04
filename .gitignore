@@ -1,0 +1,7 @@
+.idea
+.vagrant/
+*.log
+bin/
+files/
+tools/*
+logs/*
